@@ -1,0 +1,18 @@
+!! ANTES DE INICIAR A APLICAÇÃO CONVÉM SABER QUE !!
+
+Se quiser entrar com um utilizador já existente com morada e compras associadas as credenciais são:
+Email: gmcrbrito@gmail.com
+Password: 12345Gui
+
+Clique para se lembrar sempre!
+
+Para a aplicação funcionar com acesso à internet tem que mudar o IP na String URL_MAIN definida no ficheiro Endpoints.java para o IP da sua internet.
+Pode obter o IP ao executar o comando ipconfig na sua linha de comandos e copiar o valor que aparece à frente de IPV4 address.
+
+É recomendado o uso da máquina virtual Pixel 2 XL com o nível de API 28, porque a aplicação foi desenvolvida com a resolução recomendada de 1440x2880.
+
+Para o utilizador poder entrar em contacto com a SURFECT, o gmail da máquina virtual ou do dispositivo móvel terá de estar configurado com o email do utilzador.
+
+Junto com o projeto vai anexada a pasta com o fichiero de conexão (api) que deve ser colocado na pasta htdocs se estiver a utilizar o xampp, ou então na pasta www se estiver a utilizar o wamp.
+Vai também a base de dados sql que deve ser importada no phpmyadmin.
+Por fim, segue também o relatório final de projeto.
